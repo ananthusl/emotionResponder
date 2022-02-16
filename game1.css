@@ -1,0 +1,44 @@
+
+button {
+  width: 70px;
+  height: 40px;
+  background-color: cyan;
+  border: none;
+  outline: none;
+  box-shadow: -5px 4px 4px lightblue;
+  position: relative;
+  top: 100px;
+  left: 340px;
+  margin-left: 10px;
+  border-radius: 7px;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+h1 {
+  font-family: cursive;
+  text-align: center;
+  color: grey;
+  position:relative;
+  top: 100px;
+}
+
+.img1 {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 150px;
+  left: 450px;
+
+}
+
+p {
+  position: relative;
+  left: 600px;
+  top: 50px;
+  font-family: cursive;
+  font-size: 18px;
+
+}
