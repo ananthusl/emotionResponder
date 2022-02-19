@@ -27,7 +27,7 @@ function response(dummy) {
       document.querySelector('p').innerHTML='It\'s\ ok to get bored !! </br> Find your passion whether it\'s\ Music, Art or Science.</br> Then follow it.';
       break;
     case 'b6':
-      document.querySelector('.img1').setAttribute('src', 'Images/love.png');
+      document.querySelector('.img1').setAttribute('src', 'love.png');
       document.querySelector('p').innerHTML='Congrats !! </br> Falling in love is the best experience in the entire world.</br> Enjoy every moment of it because it is priceless.';
       break;
     case 'b7':
